@@ -1,3 +1,6 @@
+<img width="1410" alt="image" src="https://github.com/deanosmith/ReactGravitySim/assets/54554532/2cc461f7-e074-458a-b354-8ac3c36c1fcb">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
